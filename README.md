@@ -34,14 +34,17 @@
 -->
 
 ## 職務経歴
-### 📱 WEBアプリ開発
+### 📱 スキル管理・人材マッチングプラットフォーム(WEBアプリ)
 **未記入**
 
 **会社名**：[株式会社Ambient Lab](https://corp.ambient-lab.co.jp/)｜業務委託（フルリモート）  
-**期間**：2025-08-07〜現在
+**期間**：2025-08-07〜2025-12-14  
 **担当フェーズ**：運用保守  
-**使用技術**：Next.js / ...  
-**ツール**：Git / Figma / context7 / ...  
+**言語**：TypeScript / JavaScript / SQL / HTML / CSS  
+**フレームワーク**：Next.js 15 (App Router) / React 19 / shadcn/ui v2 / Tailwind CSS / Vitest  
+**OS**：Linux (Debian) / Dockerコンテナ環境 / Dev Containers / MacOS  
+**DB**：Supabase (PostgreSQL, Auth, Storage) / SQL (関数, ビュー, RLS)  
+**ツール**：pnpm / Git/GitHub / ESLint / Zod / React Hook From / Resend (メール配信) / MCP (Sequential-thinking, Context7, GitHub, Supabase, Figma)  
 
 #### 🔧 担当業務と工夫・成果
 - ビルドエラー解析、ロガーでpinoを構築
@@ -55,8 +58,10 @@
 **会社名**：[株式会社Ambient Lab](https://corp.ambient-lab.co.jp/)｜業務委託（フルリモート）  
 **期間**：2025-03-01〜2025-08-07  
 **担当フェーズ**：要件定義 / 設計 / 実装 / テスト  
-**使用技術**：Expo / ReactNative / HealthKit / Health Connect  
-**ツール**：Git / Figma / bolt  
+**言語**：TypeScript / JavaScript / HTML / CSS  
+**フレームワーク**：Expo / ReactNative / HealthKit / Health Connect  
+**OS**：MacOS  
+**ツール**：npm / Git / Figma  
 
 #### 🔧 担当業務と工夫・成果
 - ヘルスアプリ事業の先駆けとして、全てのヘルスデータにアクセスできるアプリを開発
@@ -85,8 +90,12 @@
 **会社名**：[株式会社テクノプロ テクノプロ・エンジニアリング社](https://www.technopro.com/eng/)｜正社員（フルリモート）  
 **期間**：2023-11-01〜2024-12-27（1年1ヶ月間）  
 **担当フェーズ**：実装、テスト  
-**使用技術**：React Native（TypeScript, JavaScript） / BLE通信 / AWS Amplify v6 / AWS Pinpoint（Push通知・データ分析）  
-**ツール**：Git／Backlog  
+
+**言語**：TypeScript / JavaScript / HTML / CSS  
+**フレームワーク**：React Native  
+**OS**：MacOS  
+**DB**：自社DB (アプリ側でAPI連携の範囲を対応)  
+**ツール**：yarn / Git/GitHub / react-native-ble-manager / Firebase Crashlytics / AWS Amplify v6 / AWS Pinpoint (Push通知・データ分析) / Backlog  
 **アプリリンク**：[ドライファンアプリ](https://apps.apple.com/jp/app/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A1%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA/id6443554124)  
 
 #### 🔧 担当業務と工夫・成果
@@ -102,8 +111,15 @@
 **会社名**：[株式会社プロトソリューション](https://www.protosolution.co.jp/)｜業務委託（フルリモート）  
 **期間**：2022-05〜2023-07（1年2ヶ月）  
 **担当フェーズ**：実装、テスト、運用・保守  
-**使用技術**：SwiftUI／Swift  
-**使用ツール**：GitHub／Backlog  
+
+**言語**：Swift  
+**フレームワーク**：SwiftUI  
+**OS**：MacOS  
+**DB**：Realm  
+**ツール**：Git/GitHub / Firebase Crashlytics / AWS Auth / Backlog  
+
+**使用技術**：
+**使用ツール**：  
 **アプリリンク**：[ラクネコ](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3/id1476010855), 
 [ラクネコ Mobile](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-mobile/id1492989447), 
 [ラクネコ Room](https://apps.apple.com/jp/app/%E3%83%A9%E3%82%AF%E3%83%8D%E3%82%B3-room/id1536365902), 
